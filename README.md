@@ -1,6 +1,6 @@
 # API Pokemons
  <img src="http://img.shields.io/static/v1?label=Ruby&message=3.2.2&color=red&style=for-the-badge&logo=ruby"/>
- <img src="http://img.shields.io/static/v1?label=Ruby%20On%20Rails%20&message=7.0.5.1&color=red&style=for-the-badge&logo=ruby"/>
+ <img src="http://img.shields.io/static/v1?label=Ruby%20On%20Rails%20&message=7.0.5&color=red&style=for-the-badge&logo=ruby"/>
  
 > Status do Projeto: ⚠️ Projeto em Desenvolvimento
 
